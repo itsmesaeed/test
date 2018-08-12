@@ -2,6 +2,5 @@
 
 salam
 test
-:wq
 
 
